@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/siddharthavar/PortPholio/static/css/main.f5c88880.css",
+    "main.js": "/siddharthavar/PortPholio/static/js/main.4bd319e8.js",
+    "static/js/415.4d6acbeb.chunk.js": "/siddharthavar/PortPholio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/siddharthavar/PortPholio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/siddharthavar/PortPholio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/siddharthavar/PortPholio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/siddharthavar/PortPholio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/siddharthavar/PortPholio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/siddharthavar/PortPholio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/siddharthavar/PortPholio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/siddharthavar/PortPholio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Sidd.Resume.pdf": "/siddharthavar/PortPholio/static/media/Sidd.Resume.afcc06fc6dddf61e0812.pdf",
+    "static/media/chatify.png": "/siddharthavar/PortPholio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Screenshot 2024-09-07 132624.png": "/siddharthavar/PortPholio/static/media/Screenshot 2024-09-07 132624.44dae8fce77dc3858095.png",
+    "static/media/home-bg.jpg": "/siddharthavar/PortPholio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/siddharthavar/PortPholio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/siddharthavar/PortPholio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/siddharthavar/PortPholio/index.html",
+    "main.f5c88880.css.map": "/siddharthavar/PortPholio/static/css/main.f5c88880.css.map",
+    "main.4bd319e8.js.map": "/siddharthavar/PortPholio/static/js/main.4bd319e8.js.map",
+    "415.4d6acbeb.chunk.js.map": "/siddharthavar/PortPholio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/siddharthavar/PortPholio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5c88880.css",
+    "static/js/main.4bd319e8.js"
+  ]
+}
